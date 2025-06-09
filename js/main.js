@@ -18,6 +18,7 @@ console.log('buscando...');
 
 buscar()
 
+
 .then((Response)=>{
     console.clear()
     console.log("arrays encontrada",Response);
